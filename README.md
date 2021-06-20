@@ -1,6 +1,6 @@
 This app was created during our time as students at Code Chrysalis
 
-<img src="./src/assets/MentorMe.png">
+<img src="./src/assets/MentorMe.png" width="200px">
 
 # MentorMe. - Connect driven students to industry professionals for one on one mentoring sessions
 
